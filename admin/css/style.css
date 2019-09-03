@@ -1,0 +1,42 @@
+.change-dash a
+{
+     border-radius: 0px !important;
+	border:0px !important;
+	background: #ddd;
+	
+}
+.change-dash
+{
+	height: 95%;
+	background:#ddd; 
+	margin-bottom: 0px !important;
+}
+.change-nav
+{
+	margin-bottom: 0px !important;
+	border:0px;
+	background-color: #ddd !important;
+}
+.change-dash a span
+{
+	padding-right: 20px;
+}
+.change-row
+{
+	margin:0px !important;
+	padding:0px !important;
+}
+.error
+{
+	color: red;
+}
+.change-to-red
+{
+	color:red !important;
+	border-color:red;
+}
+.change-to-green
+{
+	color: green !important;
+	border-color:green !important;
+}
